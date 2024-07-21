@@ -36,6 +36,11 @@ Acesse a [Wiki do Projeto](https://github.com/tshadz-fiap-postech-soat3/healthme
 
 <details>
   <summary> <h2> CI/CD - Pipeline </h2> </summary>
+  
+  ![image](https://github.com/user-attachments/assets/400f2bc7-3d0b-4758-99e2-349454977dca)
+  
+  ![image](https://github.com/user-attachments/assets/717cfeae-c60b-4bb3-9b48-e1b5d597bab4)
+
 </details>
 
 <details>
