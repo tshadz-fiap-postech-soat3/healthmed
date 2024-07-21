@@ -58,3 +58,10 @@ https://github.com/user-attachments/assets/bce6354b-9637-43c3-a743-d696dfb1d443
 https://github.com/user-attachments/assets/072f6e45-46bf-45bb-bab7-643a135c1884
 
 </details>
+
+<details>
+  <summary> <h2> User Authentication - Cloud Functions + Firebase </h2> </summary>
+
+https://github.com/user-attachments/assets/9993a899-60ad-479e-afed-284d28f1c840
+
+</details>
