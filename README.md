@@ -24,13 +24,20 @@ Acesse a [Wiki do Projeto](https://github.com/tshadz-fiap-postech-soat3/healthme
 <details>
   <summary> <h2> Features </h2> </summary>
   
-- [x]  Aplicação executando na nuvem, os itens de 1 a 6 dos requisitos funcionais, contemplando:
-- [x]  Autenticação do Usuário (Médico)
-- [x]  Cadastro/Edição de Horários Disponíveis (Médico)
-- [x]  Aceite ou Recusa de Consultas Médicas (Médico)
-- [x]  Autenticação do Usuário (Paciente)
-- [x]  Busca por Médicos (Paciente)
-- [x]  Agendamento de Consultas (Paciente)
+1. Desenho da Solução MVP
+- [x] Diagrama da arquitetura que atenda aos requisitos funcionais e justificativas das escolhas técnicas.
+- [x] Descrição de como os requisitos não funcionais serão atendidos.
+2. Demonstração da Infraestrutura na Cloud
+- [x] Mostrando a aplicação funcionando na infraestrutura de nuvem, com exemplos de uso real (como chamadas de API).
+3. Demonstração da Esteira de CI/CD
+- [x] Explicação e demonstração do pipeline de deploy da aplicação.
+4. Demonstração do MVP
+- [x] Autenticação do Usuário (Médico)
+- [x] Cadastro/Edição de Horários Disponíveis (Médico)
+- [x] Aceite ou Recusa de Consultas Médicas (Médico)
+- [x] Autenticação do Usuário (Paciente)
+- [x] Busca por Médicos (Paciente)
+- [x] Agendamento de Consultas (Paciente)
 
 </details>
 
